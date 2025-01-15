@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: 10px solid red;
+}
+
+.btn-container{
+    
+}
